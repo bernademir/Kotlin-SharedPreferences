@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="kaydet">kaydet</string>
+    <string name="kullanici_adi">Kullanici Adi</string>
+    <string name="sil">sil</string>
+    <string name="textview">TextView</string>
+</resources>
